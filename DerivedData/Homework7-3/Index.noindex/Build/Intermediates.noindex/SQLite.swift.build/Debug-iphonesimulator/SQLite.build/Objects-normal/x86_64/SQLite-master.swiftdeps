@@ -1,0 +1,75 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2e411133da132fbecd2e44692cbe4fac801a28ca4f1ce7478615a6421d367568"
+build_start_time: [1676575085, 511178016]
+build_end_time: [1676575089, 83328008]
+inputs:
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Backup.swift"
+  : [1676574820, 960706233]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Blob.swift"
+  : [1676574820, 961090087]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Connection+Aggregation.swift"
+  : [1676574820, 961714744]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Connection+Attach.swift"
+  : [1676574820, 962117195]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Connection+Pragmas.swift"
+  : [1676574820, 962812423]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Connection.swift"
+  : [1676574820, 965371131]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Errors.swift"
+  : [1676574820, 967579841]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Result.swift"
+  : [1676574820, 967967987]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/SQLiteFeature.swift"
+  : [1676574820, 968316793]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/SQLiteVersion.swift"
+  : [1676574820, 968668460]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Statement.swift"
+  : [1676574820, 969094276]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/URIQueryParameter.swift"
+  : [1676574820, 969887256]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Core/Value.swift"
+  : [1676574820, 971445560]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Extensions/Cipher.swift"
+  : [1676574820, 972425699]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Extensions/FTS4.swift"
+  : [1676574820, 973847627]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Extensions/FTS5.swift"
+  : [1676574820, 974323749]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Extensions/RTree.swift"
+  : [1676574820, 975128889]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Foundation.swift"
+  : [1676574820, 976706266]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Helpers.swift"
+  : [1676574820, 977229595]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Schema/Connection+Schema.swift"
+  : [1676574820, 979340553]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Schema/SchemaChanger.swift"
+  : [1676574820, 980521202]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Schema/SchemaDefinitions.swift"
+  : [1676574820, 981010198]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Schema/SchemaReader.swift"
+  : [1676574820, 981577634]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/AggregateFunctions.swift"
+  : [1676574820, 982364654]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Coding.swift"
+  : [1676574820, 982964992]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Collation.swift"
+  : [1676574820, 983411788]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/CoreFunctions.swift"
+  : [1676574820, 983788251]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/CustomFunctions.swift"
+  : [1676574820, 984150648]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/DateAndTimeFunctions.swift"
+  : [1676574820, 984498023]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Expression.swift"
+  : [1676574820, 984862327]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Operators.swift"
+  : [1676574820, 985607624]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Query+with.swift"
+  : [1676574820, 986313343]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Query.swift"
+  : [1676574820, 986758708]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Schema.swift"
+  : [1676574820, 987201690]
+  ? "/Users/burakturhan/Library/Developer/Xcode/DerivedData/Homework7-3-egdezwzuyuzlfkgjzjykwlnuipog/SourcePackages/checkouts/SQLite.swift/Sources/SQLite/Typed/Setter.swift"
+  : [1676574820, 987627029]

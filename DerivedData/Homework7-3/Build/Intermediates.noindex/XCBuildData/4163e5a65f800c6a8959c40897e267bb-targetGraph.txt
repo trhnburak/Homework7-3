@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+SQLite in SQLite.swift, no dependencies
+SQLite in SQLite.swift, depends on:
+SQLite in SQLite.swift (explicit)
+Homework7-3 in Homework7-3, depends on:
+SQLite in SQLite.swift (explicit)
